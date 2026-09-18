@@ -1,0 +1,5 @@
+cryptography
+kyber-py
+dilithium-py
+numpy
+pycryptodome
